@@ -23,7 +23,7 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>Cirrus Logic <span>2020.09 - present (Austin, TX)</span></h2>
                         <i><b>Internship</b></i>
-                        <p>I recently have joined the Cirrus Logic as a Software Developer-Intern. My major part of the work has been into the field of creating sustainable and flexible...</p>
+                        <p>I recently have joined the Cirrus Logic as a Software Developer-Intern. My major part of the work has been into the field of creating sustainable and flexible automation software tool using Python and MySQL.</p>
                       </div>
                     </div>
                   </article>
